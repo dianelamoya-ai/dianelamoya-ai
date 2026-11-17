@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Dianella Moya
 
-<!--
-**dianelamoya-ai/dianelamoya-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas | UNAD  
+💻 Interesada en Data Analytics, Data Engineering y Bases de Datos.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa transformar datos en información útil para apoyar la toma de decisiones. Actualmente estoy fortaleciendo mis conocimientos mediante proyectos prácticos y aprendizaje continuo.
+
+## Tecnologías y herramientas
+
+- SQL Server
+- Python
+- Power BI
+- Excel
+- Git y GitHub
+
+## Proyectos
+
+🚧 Próximamente compartiré proyectos de análisis de datos, procesos ETL y construcción de Data Warehouses.
+
+## Actualmente aprendiendo
+
+- Procesos ETL
+- Modelado de datos
+- Análisis y visualización de datos
+- Desarrollo de soluciones basadas en datos
